@@ -1,0 +1,7 @@
+====================================================
+          STUDENT MANAGEMENT SYSTEM
+                  Version 1.0
+----------------------------------------------------
+ Developed by : Shree Saravanan
+ Project Type : Java Console Application
+====================================================
