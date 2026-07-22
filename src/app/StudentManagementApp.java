@@ -4,7 +4,6 @@ import model.Student;
 import service.StudentService;
 import util.InputHelper;
 import util.MenuPrinter;
-
 import java.util.ArrayList;
 
 public class StudentManagementApp {
