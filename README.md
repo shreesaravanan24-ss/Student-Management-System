@@ -1,4 +1,4 @@
-# 🎓 Student Management System
+#  Student Management System
 
 A console-based Student Management System developed in Java using Object-Oriented Programming (OOP) principles and a layered architecture.
 
@@ -6,7 +6,7 @@ This project demonstrates clean code organization, CRUD operations, input valida
 
 ---
 
-# 📌 Project Information
+#  Project Information
 
 | Property | Value |
 |----------|-------|
@@ -20,7 +20,7 @@ This project demonstrates clean code organization, CRUD operations, input valida
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The objective of this project is to manage student records through a menu-driven console application while following clean software engineering practices.
 
@@ -36,31 +36,31 @@ The project demonstrates:
 
 ---
 
-# ✨ Features
+#  Features
 
-✅ Add Student
+ Add Student
 
-✅ View All Students
+ View All Students
 
-✅ Search Student
+ Search Student
 
-✅ Update Student
+ Update Student
 
-✅ Delete Student
+ Delete Student
 
-✅ Count Total Students
+ Count Total Students
 
-✅ Duplicate Roll Number Validation
+ Duplicate Roll Number Validation
 
-✅ Age Validation
+ Age Validation
 
-✅ Phone Number Validation
+ Phone Number Validation
 
-✅ Email Validation
+ Email Validation
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 Student-Management-System/
 
@@ -96,7 +96,7 @@ Student-Management-System/
 
 ---
 
-# 🏗 Architecture
+#  Architecture
 
 User
 
@@ -126,7 +126,7 @@ ArrayList<Student>
 
 ---
 
-# 🧠 OOP Concepts Used
+#  OOP Concepts Used
 
 - Classes
 - Objects
@@ -139,7 +139,7 @@ ArrayList<Student>
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Java
 - IntelliJ IDEA
@@ -149,7 +149,7 @@ ArrayList<Student>
 
 ---
 
-# 📋 Student Information Stored
+#  Student Information Stored
 
 Each student record contains:
 
@@ -164,7 +164,7 @@ Each student record contains:
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 1. Clone this repository.
 
@@ -180,7 +180,7 @@ src/app/Main.java
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 Screenshots will be added here.
 
@@ -193,7 +193,7 @@ Screenshots will be added here.
 
 ---
 
-# 🔄 Future Enhancements
+#  Future Enhancements
 
 Version 1.1
 
@@ -224,7 +224,7 @@ Version 6.0
 
 ---
 
-# 📖 Learning Outcomes
+#  Learning Outcomes
 
 This project helped in understanding:
 
@@ -238,7 +238,7 @@ This project helped in understanding:
 
 ---
 
-# 🤝 Contribution
+#  Contribution
 
 Suggestions and improvements are always welcome.
 
@@ -246,7 +246,7 @@ Feel free to fork the repository and enhance the project.
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Shree Saravanan**
 
@@ -256,10 +256,10 @@ Nehru Institute of Engineering and Technology
 
 ---
 
-# 📜 License
+#  License
 
 This project is released under the MIT License.
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+ If you found this project useful, consider giving it a star on GitHub!
